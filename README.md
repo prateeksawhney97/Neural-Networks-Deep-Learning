@@ -1,6 +1,6 @@
 # Neural-Networks-Deep-Learning
 
-The Repository contains optional and practice assignments of the 1st course - "Neural Networks and Deep Learning" of the "Deep Learning Specialization" by Deeplearning.ai on Coursera.
+The Repository contains optional and practice assignments of the 1st course - "Neural Networks and Deep Learning" of the "Deep Learning Specialization" on Coursera by Deeplearning.ai
 
 # Link to the course : 
 
